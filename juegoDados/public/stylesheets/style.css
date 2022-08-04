@@ -1,0 +1,56 @@
+body {
+  padding: 50px;
+  background-color: maroon;  
+ 
+}
+
+a {
+  color: #00B7FF;
+}
+
+FORM {
+
+background-color: yellow
+
+
+}
+
+input{
+
+padding-top: 10px;
+margin: 20px
+
+
+}
+
+img{
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+  margin: 0 auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+button{
+
+width: 50%;
+padding: 10px;
+background-color: maroon;
+color: white
+
+
+}
+
+.ganador{
+
+background-color: red
+
+}
+
+.nameganador{
+
+
+background-color: fuchsia;
+
+}
